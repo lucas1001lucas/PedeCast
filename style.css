@@ -26,7 +26,7 @@ img {
 }
 
 img#ilustracao {
-    margin: 2%;
+    margin: 30px;
     border-radius: 10px;
     box-shadow: 2px 2px 5px gray;
 }
