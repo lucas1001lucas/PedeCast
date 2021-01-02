@@ -28,4 +28,5 @@ img {
 img#ilustracao {
     margin: 2%;
     border-radius: 10px;
+    box-shadow: 2px 2px 5px gray;
 }
