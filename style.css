@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(58, 56, 56);
+}
+
+h1 {
+    font: normal 40px Times;
+    color: white;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+h1#principal {
+    margin-bottom: 1%;
+}
+
+div {
+    text-align: center;
+}
+
+div#voltar {
+    margin-top: 1%;
+}
+
+img {
+    margin: 10px;
+}
+
+img#ilustracao {
+    margin: 2%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
